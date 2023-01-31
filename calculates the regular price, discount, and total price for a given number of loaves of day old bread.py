@@ -11,6 +11,6 @@ discount = regular_price * 0.6
 total_price = regular_price - discount
 
 # Display prices with two decimal places and aligned decimal points
-print("Regular price: {:.2f} rupees".format(regular_price))
-print("Discount: {:.2f} rupees".format(discount))
-print("Total price: {:.2f} rupees".format(total_price))
+print("Regular price:rupees",regular_price)
+print("Discount:rupees",discount)
+print("Total pricerupees",total_price)
